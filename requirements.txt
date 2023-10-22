@@ -1,0 +1,11 @@
+scikit-learn
+tensorflow
+keras
+numpy
+pandas
+matplotlib
+seaborn
+Pillow
+zipfile36
+tqdm
+opencv-python
