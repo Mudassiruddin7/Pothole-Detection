@@ -97,7 +97,7 @@ The dataset used in this project was collected form the Kaggle data repository w
 
 **Normal**
 
-![Normal](https://quicklol.com/wp-content/uploads/2017/03/ducks-crossing-road-animated-gif-image.gif)
+![Normal](https://i.kym-cdn.com/photos/images/newsfeed/001/138/671/908.gif)
 
  # _**Issues Faced.**_
 1. We might face an issue while installing specific libraries.
